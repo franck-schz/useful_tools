@@ -1,2 +1,4 @@
 # useful_tools
-Codes free to use to help for simple tasks, I will add more during my work.
+
+A collection of free-to-use code for small, everyday tasks.  
+I'll keep adding more tools and scripts as my work progresses.
